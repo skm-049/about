@@ -10,10 +10,9 @@ Welcome to my GitHub profile! I'm passionate about frontend development and curr
 - 🔍 Actively seeking opportunities to contribute and learn
 
 ## 📊 Social Profiles
-
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Portfolio Website](Your Portfolio Website URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/someshmahawar) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) 
 
 Connect with me! Let's learn and grow together. 🌟
 
